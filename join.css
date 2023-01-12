@@ -1,0 +1,48 @@
+
+nav{background-color:rgb(70,140,50);}
+
+body{background-color:rgb(60,130,20);}
+
+header{animation-name:A;animation-duration:5s;animation-iteration-count:infinite; font-size:25;text-align:center;}
+@keyframes A{
+0%{color:red;}
+30%{color:blue;}
+60%{color:black;}
+100%{color:violet;}
+}
+footer{text-align:center;}
+
+#img1{position:relative;}
+#img2{position:relative;left:700;}
+#img3{position:relative;left:40;}
+
+a{color:black;text-decoration:none;}
+#aa{background-color:rgb(160,130,20);padding:30;}
+#a1{padding-left:50; color:black;}
+#a2{padding-left:100;color:black;}
+#a3{padding-left:150;color:black;}
+#a4{padding-left:200;color:black;}
+#a5{padding-left:250;color:black;}
+
+#aside{float:left;
+background-color:rgb(160,130,20);}
+#mark{position:absolute;left:350;bac}
+#mark1{position:absolute;left:800;}
+span{color:black;}
+
+a:hover{color:blue;}
+#a1:hover{color:blue;}
+#a2:hover{color:blue;}
+#a3:hover{color:blue;}
+#a4:hover{color:blue;}
+#a5:hover{color:blue;}
+
+#anc1{color:red;}
+#anc2{color:red;}
+
+#d1{display:inline-block;padding-left:350;padding-top:150;
+color:white;
+}
+#d1:hover{color:red;}
+
+	b{color:blue;}
